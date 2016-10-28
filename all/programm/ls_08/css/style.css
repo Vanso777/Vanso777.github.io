@@ -1,0 +1,51 @@
+/*.image{
+float:left;
+width:70px;
+}*/
+ *{
+margin: 0;
+padding: 0;
+}
+.heaber{
+  background-color: grey;
+}
+.siderbar{
+  background-color: green;
+    float: left;
+    width: 50px;
+}
+.content{
+background-color:yellow ;
+  float: left;
+  width: 50px;
+}
+.footer{
+  background-color: red;
+  clear:both;
+}
+
+.news{
+  float:right;
+  background-color: black;
+  color: white;
+width: 20%;
+}
+
+.container{
+    position: relative;
+}
+ /*.menu li{
+  float: left;
+  list-style: none;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid #000;
+}
+.menu a{
+  color:#000;
+}
+.menu{
+  position: relative;
+  overflow: hidden;
+  background:green;
+}
